@@ -1,0 +1,5 @@
+/mnt/hgfs/linux/tlpi-book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/hgfs/linux/tlpi-book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/linux/tlpi-book/cmake-build-debug/CMakeFiles/mysignals.dir
+/mnt/hgfs/linux/tlpi-book/cmake-build-debug/CMakeFiles/tlpi.dir
+/mnt/hgfs/linux/tlpi-book/cmake-build-debug/CMakeFiles/source_inteligence.dir

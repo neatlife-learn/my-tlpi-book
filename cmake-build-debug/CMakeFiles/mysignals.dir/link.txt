@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/mysignals.dir/signals/mysignals.c.o  -o mysignals 
